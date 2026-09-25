@@ -1,3 +1,9 @@
+---
+layout: null
+title: Bee Intelligent
+description: An open scientific resource for standardized, biologically contextualized bee vibroacoustic data.
+---
+
 /* Bee Intelligent — landing page styles
    Token system: see index.md design plan. Keep this file as the site's
    single shared stylesheet as new pages (/atlas/, /standards/, etc.) are
